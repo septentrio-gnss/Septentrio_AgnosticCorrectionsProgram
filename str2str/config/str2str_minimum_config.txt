@@ -1,0 +1,3 @@
+setNMEAOutput, Stream1, OTG1
+setNMEAOutput, Stream1, , GGA
+setNMEAOutput, Stream1, , , msec100
