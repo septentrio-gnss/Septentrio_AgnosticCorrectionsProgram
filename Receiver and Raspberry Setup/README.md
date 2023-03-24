@@ -78,7 +78,7 @@ Do you have questions?
 
 Navigate to the main page:
 
-| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/blob/main/README.md#table-of-contents">Click here to nacigate to the Main page of the documentation</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/blob/main/README.md#table-of-contents">Click here to navigate to the Main page of the documentation</a> |
 |---|
    
 </div>
