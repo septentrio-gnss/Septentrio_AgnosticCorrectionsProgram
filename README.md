@@ -69,9 +69,9 @@ It is desirable to mention the disclaimer about that setup and the guides in gen
 * [Implementation with different Correction Service Providers](#implementation-with-different-correction-service-providers)
   * [Integration flowchart](#integration-flowchart)
   * [Selecting the company](#selecting-the-company)
-    * [Point One Navigation](#point-one-navigation)
-    * [Swift Navigation](#swift-navigation)
-    * [uBlox](#ublox)
+    * [Point One Navigation (Polaris)](#point-one-navigation)
+    * [Swift Navigation (Skylark)](#swift-navigation)
+    * [u-blox (PointPerfect)](#u-blox)
    
 * [Other guides](#other-guides)
    * [Raspberry Pi 4 Model B and Mosaic-Go GNSS module receiver evaluation kit setup](#raspberry-Pi-4-model-b-and-mosaic-go-gnss-module-receiver-evaluation-kit-setup)
@@ -203,7 +203,7 @@ Below is a list of partner companies for which we have created How-To guides for
  
 <div align="center">
    
-#### <font size=”5”> Point One Navigation </font>
+#### Point One Navigation
 
 <p align="center">
     <img src="Receiver and Raspberry Setup/doc_sources/pointone_logo.png" width="50%">
