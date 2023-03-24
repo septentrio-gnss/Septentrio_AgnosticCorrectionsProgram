@@ -53,7 +53,7 @@ This set of guidelines consist of a several practical examplse to help Septentri
 
 It is desirable to mention the disclaimer about that setup and the guides in general before starting reading this guide.
   
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
 |---|
 
 </div>
@@ -95,7 +95,7 @@ The guides are divided into **two main parts**.
 
 <div align="center">
 
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">Click here to access to the Raspberry Pi and receiver setup guide.</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">Click here to access to the Raspberry Pi and receiver setup guide.</a> |
 |---|
    
 </div>
@@ -104,7 +104,7 @@ The guides are divided into **two main parts**.
 
 <div align="center">
 
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#implementation-with-different-correction-service-providers">Click here to access a list of step-by-step guides on how to integrate corrections from different third party companies that Septentrio is collaborating with for this project.</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#implementation-with-different-correction-service-providers">Click here to access a list of step-by-step guides on how to integrate corrections from different third party companies that Septentrio is collaborating with for this project.</a> |
 |---|
    
 </div>
@@ -231,7 +231,7 @@ Below is a list of partner companies for which we have created How-To guides for
 
 Some of the guidelines may require additional instructions or steps to be followed, which are common among multiple companies' implementations. To help streamline the process, we've included extra guides in this repository, such as the implementation guide for setting up your Raspberry Pi 4 Model B and Septentrio Mosaix-X5 receiver.
 
-In the <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#other-guides">following section below</a> you can access this and other complementary guides.
+In the <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#other-guides">following section below</a> you can access this and other complementary guides.
 
 ## Other guides
 
@@ -243,7 +243,7 @@ The main example of these complementary guides is the Set Up Guide to use Third 
   
 <div align="center">
    
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-osr-corrections-with-septentrios-receiver-for-precise-positioning">Click here to the access to setup preparation guide</a>. |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-osr-corrections-with-septentrios-receiver-for-precise-positioning">Click here to the access to setup preparation guide</a>. |
 |---|
    
 </div>
@@ -263,7 +263,7 @@ The str2str tool **is running inside the Raspberry Pi and it creates an NTRIP cl
    
 <div align="center">
    
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/str2str#how-to-use-rtklibs-str2str-tool-to-receive-corrections-from-ntrip-server-and-send-them-to-septentrio-receiver">Click here to the access to RTKLIB's str2str tool compilation and use guidel</a>. |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/str2str#how-to-use-rtklibs-str2str-tool-to-receive-corrections-from-ntrip-server-and-send-them-to-septentrio-receiver">Click here to the access to RTKLIB's str2str tool compilation and use guidel</a>. |
 |---|
    
 </div>
@@ -281,7 +281,7 @@ The guide consists of executing a series of commands that configure the Raspberr
   
 <div align="center">
       
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/SharingInternetFromRaspberryPiToReceiver#how-to-share-internet-connection-from-the-raspberry-pi-to-the-receiver-using-an-usb-cable">Click here to the access to the guide of how to Transmit internet connection through the Raspberry Pi to the receiver using a USB cable</a>. |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/SharingInternetFromRaspberryPiToReceiver#how-to-share-internet-connection-from-the-raspberry-pi-to-the-receiver-using-an-usb-cable">Click here to the access to the guide of how to Transmit internet connection through the Raspberry Pi to the receiver using a USB cable</a>. |
 |---|
       
 </div>
