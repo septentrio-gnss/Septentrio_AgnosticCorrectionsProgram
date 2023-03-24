@@ -219,12 +219,12 @@ Below is a list of partner companies for which we have created How-To guides for
 | <a href="https://github.com/septentrio-gnss/SwiftCorrectionsWithSeptentrio">Swift Navigation Corrections With Septentrio Guide.</a> |
 |---|
     
-#### uBlox
+#### u-blox
    
 <p align="center">
     <img src="Receiver and Raspberry Setup/doc_sources/pointperfect_logo.png" width="40%">
 
-| <a href="https://github.com/septentrio-gnss/uBloxCorrectionsWithSeptentio">uBlox Corrections With Septentrio Guide.</a> |
+| <a href="https://github.com/septentrio-gnss/uBloxCorrectionsWithSeptentrio">u-blox Corrections With Septentrio Guide.</a> |
 |---|
    
 </div>
