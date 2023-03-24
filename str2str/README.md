@@ -31,7 +31,7 @@ This set of guidelines consist of a several practical examplse to help Septentri
 
 It is desirable to mention the disclaimer about that setup and the guides in general before starting reading this guide.
   
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
 |---|
 
 </div>
@@ -68,7 +68,7 @@ This guide is based on the setup suggested in the documentation of this reposito
 
 <div align="center">
     
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning"> Click here to acces to our Set Up Guide to use Third Party OSR and SSR correction services with Septentrio's Receivers for precise positioning.</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning"> Click here to acces to our Set Up Guide to use Third Party OSR and SSR correction services with Septentrio's Receivers for precise positioning.</a> |
 |---|
     
 </div>
@@ -109,7 +109,7 @@ The -b flag implementation allows the system to send NMEA messages through the o
 | <a href="https://web.septentrio.com/GH-SSN-modules">Click here to the access to the all Septentrio GNSS Modules page.</a> |
 |---|
     
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning"> Click here to acces to our Set Up Guide to use Third Party OSR and SSR correction services with Septentrio's Receivers for precise positioning.</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning"> Click here to acces to our Set Up Guide to use Third Party OSR and SSR correction services with Septentrio's Receivers for precise positioning.</a> |
 |---|
 
     
@@ -190,7 +190,7 @@ For this case we are using USB OTG1 (USB On-The-Go 1) port, if you are using oth
 
 <div align="center">
 
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning">Set Up Guide to use Third parties OSR corrections with Septentrio's Receiver for precise positioning</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning">Set Up Guide to use Third parties OSR corrections with Septentrio's Receiver for precise positioning</a> |
 |---|
 
 </div>
@@ -319,7 +319,7 @@ The execution command would be:
     
 ## SYSTEM SCHEME
 
-The physical setup used for this example is the one suggested in this guide called " <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning">Set Up Guide to use Third parties OSR corrections with Septentrio's Receiver for precise positioning</a> ". In the scheme below it can be seen that the only input from the user is the parameter configuration for the str2str Application Program in the execute command and the receiver configuration to ensure that NMEA stream is been sended. Both of these are done **inside the operating system running in the Raspberry Pi**. That is why there is a white box called "User Input" inside the green box which represents the Raspberry Pi.
+The physical setup used for this example is the one suggested in this guide called " <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#set-up-guide-to-use-third-party-osr-and-ssr-corrections-with-septentrios-receivers-for-precise-positioning">Set Up Guide to use Third parties OSR corrections with Septentrio's Receiver for precise positioning</a> ". In the scheme below it can be seen that the only input from the user is the parameter configuration for the str2str Application Program in the execute command and the receiver configuration to ensure that NMEA stream is been sended. Both of these are done **inside the operating system running in the Raspberry Pi**. That is why there is a white box called "User Input" inside the green box which represents the Raspberry Pi.
 
 <p align="center">
     <img src="doc_sources/system_scheme.png" width="100%">

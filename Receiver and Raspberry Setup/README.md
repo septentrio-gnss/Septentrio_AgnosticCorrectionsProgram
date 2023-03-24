@@ -51,9 +51,9 @@
 
 ## DISCLAIMER
 
-For the implementation of the <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#implementation-with-different-correction-service-providers">different correction services offered by the different companies with which Septentrio collaborates</a>, several repositories and guides have been created to help the user with the implementation of these services.
+For the implementation of the <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#implementation-with-different-correction-service-providers">different correction services offered by the different companies with which Septentrio collaborates</a>, several repositories and guides have been created to help the user with the implementation of these services.
 
-All these guides have been developed based on a specific setup described in <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">this documentation</a>.
+All these guides have been developed based on a specific setup described in <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">this documentation</a>.
 
 The purpose of this documentation is to **provide an example of the implementation of all the services**, but other users may have a different setup with different receiver or computer (external CPU).
 
@@ -78,7 +78,7 @@ Do you have questions?
 
 Navigate to the main page:
 
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/blob/main/README.md#table-of-contents">Click here to nacigate to the Main page of the documentation</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/blob/main/README.md#table-of-contents">Click here to nacigate to the Main page of the documentation</a> |
 |---|
    
 </div>
@@ -259,7 +259,7 @@ After completing the implementation of the service, the Raspberry Pi you should 
 
 <div align="center">
 
-|  <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic#implementation-with-different-correction-service-providers">Click here to the navigate to the Implementation with different Correction Service Providers guides</a> |
+|  <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram#implementation-with-different-correction-service-providers">Click here to the navigate to the Implementation with different Correction Service Providers guides</a> |
 |---|
 
 </div>

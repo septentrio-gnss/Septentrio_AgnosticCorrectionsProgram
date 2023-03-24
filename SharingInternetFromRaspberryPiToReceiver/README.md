@@ -31,7 +31,7 @@ This set of guidelines consist of a several practical examplse to help Septentri
 
 It is desirable to mention the disclaimer about that setup and the guides in general before starting reading this guide.
   
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#disclaimer">Click here to know more about the Setup in which these guides are based and general implementation documentation disclaimer</a> |
 |---|
 
 </div>
@@ -57,7 +57,7 @@ The purpose of this guide is to provide a step-by-step process for transmitting 
 
 Before proceeding with the steps outlined in this guide, please ensure that you have followed the Setup Installation guide provided in this repository. (Including Raspberry Pi OS intallation)
 
-| <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">Click here to navigate to our Set Up Guide to use Third parties corrections with Septentrio's Receiver for precise positioning GitHub guide.</a> |
+| <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/Receiver%20and%20Raspberry%20Setup#set-up-guide-to-use-third-parties-corrections-with-septentrios-receiver-for-precise-positioning">Click here to navigate to our Set Up Guide to use Third parties corrections with Septentrio's Receiver for precise positioning GitHub guide.</a> |
 |---|
 
 Once the setup has been properly installed, follow the instructions below to transmit the internet connection to the Septentrio receiver.
@@ -154,14 +154,14 @@ This means that the **old 192.168.3.1 Ip address has been changed** and you need
 **<div align="center">IMPORTANT NOTE</div>**
 
 
-| Unfortunately some of these settings will be lost after a system restart. Please check <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/SharingInternetFromRaspberryPiToReceiver#what-to-run-once">this section to know what you need ro run **once**</a> and<a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/SharingInternetFromRaspberryPiToReceiver#what-to-run-every-boot-of-the-operating-system"> this one to know what you need to run **every boot of the system**</a>. |
+| Unfortunately some of these settings will be lost after a system restart. Please check <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/SharingInternetFromRaspberryPiToReceiver#what-to-run-once">this section to know what you need ro run **once**</a> and<a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/SharingInternetFromRaspberryPiToReceiver#what-to-run-every-boot-of-the-operating-system"> this one to know what you need to run **every boot of the system**</a>. |
 |---|
 
 ## Check new assigned IP to the receiver
 
 Upon enabling Outoging Interned Access Over USB option in Communications tab of Web User Interface and after enabling and configuring the network bridge from Wi-Fi to USB, the "192.168.3.1" IP address will no longer be accessible: a new random IP address will be assigned to your receiver.
 
-To check how is the new IP address assigned to the receiver, see the las print in the terminal after executing this command in the last step of the <a href="https://github.com/septentrio-gnss/SeptentrioAgnostic/tree/main/SharingInternetFromRaspberryPiToReceiver#configure-the-network-bridge-from-wifi-to-usb">"Configure the network bridge from wifi to usb"</a> chapter of this guide.
+To check how is the new IP address assigned to the receiver, see the las print in the terminal after executing this command in the last step of the <a href="https://github.com/septentrio-gnss/Septentrio_AgnosticCorrectionsProgram/tree/main/SharingInternetFromRaspberryPiToReceiver#configure-the-network-bridge-from-wifi-to-usb">"Configure the network bridge from wifi to usb"</a> chapter of this guide.
 
 In the following picture the assigned new IP for the receiver can be seen. Remember that after rebooting your PC this will change.
 
