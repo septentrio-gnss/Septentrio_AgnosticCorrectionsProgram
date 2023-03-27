@@ -206,7 +206,7 @@ Below is a list of partner companies for which we have created How-To guides for
 #### Point One Navigation
 
 <p align="center">
-    <img src="Receiver and Raspberry Setup/doc_sources/pointone_logo.png" width="50%">
+    <img src="Receiver and Raspberry Setup/doc_sources/pointone_logo.png" width="40%">
     
 | <a href="https://github.com/septentrio-gnss/PointOneCorrectionsWithSeptentrio">Point One Navigation Polaris Corrections With Septentrio Guide.</a> |
 |---|
@@ -214,7 +214,7 @@ Below is a list of partner companies for which we have created How-To guides for
 #### Swift Navigation
    
 <p align="center">
-    <img src="Receiver and Raspberry Setup/doc_sources/skylark_logo.png" width="45%">
+    <img src="Receiver and Raspberry Setup/doc_sources/skylark_logo.png" width="35%">
     
 | <a href="https://github.com/septentrio-gnss/SwiftCorrectionsWithSeptentrio">SwiftNav Skylark Corrections With Septentrio Guide.</a> |
 |---|
@@ -222,7 +222,7 @@ Below is a list of partner companies for which we have created How-To guides for
 #### u-blox
    
 <p align="center">
-    <img src="Receiver and Raspberry Setup/doc_sources/pointperfect_logo.png" width="40%">
+    <img src="Receiver and Raspberry Setup/doc_sources/pointperfect_logo.png" width="20%">
 
 | <a href="https://github.com/septentrio-gnss/uBloxCorrectionsWithSeptentrio">u-blox PointPerfect Corrections With Septentrio Guide.</a> |
 |---|
