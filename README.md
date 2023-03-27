@@ -68,7 +68,7 @@ It is desirable to mention the disclaimer about that setup and the guides in gen
 * [Is the project Open Source?](#is-the-project-open-source)
 * [Implementation with different Correction Service Providers](#implementation-with-different-correction-service-providers)
   * [Integration flowchart](#integration-flowchart)
-  * [Selecting the company](#selecting-the-company)
+  * [Selecting the service](#selecting-the-service)
     * [Point One Navigation (Polaris)](#point-one-navigation)
     * [Swift Navigation (Skylark)](#swift-navigation)
     * [u-blox (PointPerfect)](#u-blox)
@@ -186,7 +186,7 @@ This section contains the guides on how to implement third-party correction serv
 <p align="center">
     <img src="Receiver and Raspberry Setup/doc_sources/Complete_how_to_diagram.jpg" width="100%">
     
-### Selecting the company
+### Selecting the service
 
 When selecting a correction service, it's important to consider the different features and coverage areas offered by each company, as well as your specific application's performance requirements and needs. To help you make an informed decision, there is compiled a list of the companies that Septentrio collaborates with and their respective guidelines in this repository. 
 
