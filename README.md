@@ -222,7 +222,7 @@ Below is a list of partner companies for which we have created How-To guides for
 #### u-blox
    
 <p align="center">
-    <img src="Receiver and Raspberry Setup/doc_sources/pointperfect_logo.png" width="20%">
+    <img src="Receiver and Raspberry Setup/doc_sources/pointperfect_logo.png" width="35%">
 
 | <a href="https://github.com/septentrio-gnss/uBloxCorrectionsWithSeptentrio">u-blox PointPerfect Corrections With Septentrio Guide.</a> |
 |---|
